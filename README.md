@@ -1,6 +1,6 @@
-# :zap: ML Preprocessor CLI
+# ML Preprocessor CLI
 
-The CLI made to preprocess the database and save your **time**:clock1:
+The CLI made to preprocess the database and save your **time**
 
 ## Gist
 
@@ -10,7 +10,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
     - Handling NULL Values
     - Encoding Categorical Data
     - Feature Scaling
-- We can also **DOWNLOAD**:arrow_down: the modified dataset.
+- We can also **DOWNLOAD** the modified dataset.
 
 
 
